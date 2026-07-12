@@ -1,4 +1,4 @@
 # My-demo
-This is my first  Git repository.
+This is my first  Git Repository.
 <br> 
-Author - shweta chitte
+Author - Shweta Chitte
